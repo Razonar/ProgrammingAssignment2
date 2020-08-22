@@ -1,3 +1,5 @@
+### Assignment: Caching the Inverse of a Matrix
+
 ## These two functions together store a matrix and cache its inverse.
 ## The matrix is assumed to have an inverse.
 
